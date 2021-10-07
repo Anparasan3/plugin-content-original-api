@@ -1,0 +1,2763 @@
+{
+	"product": [{
+		"productBatchId": 5468,
+		"productId": 1,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://cdn.zeplin.io/614425f023e060184fddba89/assets/BF37A1A9-46AD-4AD0-A619-501E7D0E5379.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 2,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://cdn.zeplin.io/614425f023e060184fddba89/assets/5A4A4795-67A5-4A58-BE9C-43521D2A5908.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 3,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://cdn.zeplin.io/614425f023e060184fddba89/assets/78722A08-F88B-40D4-A6B5-DBAEE2A90C42.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 4,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://cdn.zeplin.io/614425f023e060184fddba89/assets/BF37A1A9-46AD-4AD0-A619-501E7D0E5379.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 5,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://cdn.zeplin.io/614425f023e060184fddba89/assets/CC276CD3-36D7-456B-9497-BAE537A1DDA6.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 6,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://cdn.zeplin.io/614425f023e060184fddba89/assets/1E9D33B7-0D36-423E-9B0A-2BF76F77D0AC.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 7,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 8,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 9,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/95/bf/e6/95bfe61d66dcaa0b660636474715bce3.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 10,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/55/74/2b/55742bc517731558fa4ca5265b807600.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 11,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 12,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 13,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 14,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 15,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 16,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 17,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/95/bf/e6/95bfe61d66dcaa0b660636474715bce3.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 18,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/55/74/2b/55742bc517731558fa4ca5265b807600.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 19,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 20,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 21,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 22,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 23,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 24,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 25,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/95/bf/e6/95bfe61d66dcaa0b660636474715bce3.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 26,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/55/74/2b/55742bc517731558fa4ca5265b807600.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 27,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 28,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 29,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 30,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 31,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/95/bf/e6/95bfe61d66dcaa0b660636474715bce3.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 32,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/55/74/2b/55742bc517731558fa4ca5265b807600.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 33,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 34,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 35,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 36,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 37,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/95/bf/e6/95bfe61d66dcaa0b660636474715bce3.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 38,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/55/74/2b/55742bc517731558fa4ca5265b807600.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 39,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 40,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 41,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 42,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 43,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/95/bf/e6/95bfe61d66dcaa0b660636474715bce3.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 44,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/55/74/2b/55742bc517731558fa4ca5265b807600.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 45,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 46,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 47,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 48,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 49,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/95/bf/e6/95bfe61d66dcaa0b660636474715bce3.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 50,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/55/74/2b/55742bc517731558fa4ca5265b807600.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 51,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 52,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 53,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 54,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 55,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/95/bf/e6/95bfe61d66dcaa0b660636474715bce3.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 56,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/55/74/2b/55742bc517731558fa4ca5265b807600.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 57,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://m.media-amazon.com/images/I/71fDfylOQgL._UY695_.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 58,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/736x/33/35/d4/3335d478f0a0da8abe8d44ab13d0b0ff.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 59,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/6d/1b/26/6d1b26a7e93da553cf5af7c1aacf257d.png"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	},
+    {
+		"productBatchId": 5468,
+		"productId": 60,
+		"brandName": "Nike",
+		"productName": "Nike X450",
+		"productDescription": "Running Shoe for long distance running",
+		"size": {
+			"sizeLabel": "Select Size [UK Size]",
+			"type": ["S", "M", "L", "XL"]
+		},
+		"tags": ["tag1", "tag2", "tag3"],
+		"sellingPrice": "25.50 $",
+		"mrp": "100 $",
+		"startRating": 4,
+		"images": [
+			"https://i.pinimg.com/originals/9b/47/87/9b4787397b417c86b774f20a314b909c.jpg"
+		],
+		"colorTitle": "Color:",
+		"colors": [{
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			{
+				"color": "white",
+				"code": {
+					"rgba": [0, 0, 0, 1],
+					"hex": "#FFF"
+				}
+			}
+		],
+		"cta": {
+			"addToCartURL": "https://abc.com/addtocart.php",
+			"buttonColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"websiteURL": "https://abc.com/products"
+	}],
+	"settings": {
+		"header": {
+			"logoName": "Logo Name",
+			"logoImg": "img/logo.png",
+			"headerBGColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			}
+		},
+		"footer": {
+			"logoName": "Logo Name",
+			"logoImg": "img/logo.png",
+			"footerBGColor": {
+				"color": "black",
+				"code": {
+					"rgba": [255, 255, 255, 1],
+					"hex": "#000"
+				}
+			},
+			"address": "#1, MG Road, Bangalore. 560001",
+			"links": {
+				"aboutUS": {
+					"title": "About US",
+					"url": "https://abc.com/aboutus.html"
+				},
+				"products": {
+					"title": "Products",
+					"url": "https://abc.com/products.html"
+				},
+				"categories": {
+					"title": "Categories",
+					"url": "https://abc.com/categories.html"
+				},
+				"stores": {
+					"title": "Stores",
+					"url": "https://abc.com/stores.html"
+				},
+				"contact": {
+					"title": "Contact US",
+					"url": "https://abc.com/contactus.html"
+				}
+			},
+			"social": {
+				"facebook": {
+					"logoImg": "img/fb.png",
+					"url": "https://facebook.com/abc"
+				},
+				"twitter": {
+					"logoImg": "img/twitter.png",
+					"url": "https://twitter.com/abc"
+				},
+				"instagram": {
+					"logoImg": "img/insta.png",
+					"url": "https://instagram.com/abc"
+				}
+			}
+		}
+	}
+}
